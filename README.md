@@ -33,9 +33,13 @@ Enterprise version:
 -   Installed in a local Linux node.
 
 ### Examples
-[https://dash.gallery/Portal/](https://dash.gallery/Portal/)
+[https://dash.gallery/Portal/](the Dash example portal)
+
+dash examples:
 [https://dash.gallery/dash-pivottable/](https://dash.gallery/dash-pivottable/)
+
 [https://dash.gallery/dash-wind-streaming](https://dash.gallery/dash-wind-streaming)
+
 [https://dash.gallery/dash-lastodash-de/](https://dash.gallery/dash-lastodash-de/)
 
 ---
