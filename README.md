@@ -33,7 +33,7 @@ Enterprise version:
 -   Installed in a local Linux node.
 
 ### Examples
-[https://dash.gallery/Portal/](the Dash example portal)
+[the Dash example portal ] (https://dash.gallery/Portal/)
 
 dash examples:
 [https://dash.gallery/dash-pivottable/](https://dash.gallery/dash-pivottable/)
