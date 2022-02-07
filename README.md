@@ -33,14 +33,14 @@ Enterprise version:
 -   Installed in a local Linux node.
 
 ### Examples
-[the Dash example portal ] (https://dash.gallery/Portal/)
+[the Dash example portal](https://dash.gallery/Portal/)
 
 dash examples:
-[https://dash.gallery/dash-pivottable/](https://dash.gallery/dash-pivottable/)
+[Dash pivottable](https://dash.gallery/dash-pivottable/)
 
-[https://dash.gallery/dash-wind-streaming](https://dash.gallery/dash-wind-streaming)
+[Dash wind streaming](https://dash.gallery/dash-wind-streaming)
 
-[https://dash.gallery/dash-lastodash-de/](https://dash.gallery/dash-lastodash-de/)
+[dash-lastodash-de](https://dash.gallery/dash-lastodash-de/)
 
 ---
 ### Component of the code
@@ -57,4 +57,4 @@ Running the app
 
 ---
 ### Helpful resources
-[https://dash.plotly.com/](dash Plotly website)
+[dash Plotly website](https://dash.plotly.com/)
